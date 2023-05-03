@@ -1,0 +1,4 @@
+{
+    "apiUrlPerson":"http://localhost:8080/api/persona/",
+    "apiUrlDocumento":"http://localhost:8080/api/tipo-documento/"
+}

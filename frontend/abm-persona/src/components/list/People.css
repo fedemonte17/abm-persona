@@ -1,0 +1,96 @@
+.styleFont {
+  font-size: 12;
+  text-align: "left";
+}
+.paper {
+  margin: 20;
+  justify-content: "flex-start";
+  text-align: "center";
+  overflow: "auto";
+}
+.paperResultado {
+  width: "95%";
+  margin: "20px auto";
+  flex: 1;
+  justify-content: "flex-start";
+  overflow: "auto";
+}
+.paperResultadoTotales {
+  width: "20%";
+  margin: "20px auto";
+  justify-content: "flex-end";
+  overflow: "auto";
+  display: "flex";
+}
+.title {
+  font-size: 25;
+}
+.entidadFormSection {
+  padding: 10;
+}
+.totalesRowColumnStyle {
+  width: "100%";
+  display: "flex";
+  flex-direction: "row";
+  margin: "5px";
+  font-size: 12;
+  background: "#fff  !important";
+}
+.totalesStyle {
+  font-size: 12;
+  text-align: "left";
+  width: "50%";
+  display: "flex";
+  justify-content: "flex-end";
+  padding-right: "10px";
+}
+
+.titulo {
+  padding: 10;
+  width: "100%";
+  margin: "0 auto";
+  color: "#009AC2";
+  font-size: 16;
+  display: "flex";
+}
+.volver {
+  padding: 10;
+  width: "50%";
+  margin: "0 auto";
+  color: "#009AC2";
+  font-size: 16;
+  display: "flex";
+  justify-content: "flex-end";
+}
+.comprobante {
+  padding: 10;
+  width: "50%";
+  margin: "0 auto";
+  color: "#009AC2";
+  font-size: 16;
+  display: "flex";
+  justify-content: "flex-start";
+}
+.descripcion {
+  width: "30%";
+  display: "flex";
+  font-size: 12;
+  font-weight: "bold";
+}
+.detalle {
+  padding: 10;
+  width: "100%";
+  margin: "0 auto";
+  font-size: 12;
+  display: "flex";
+  font-weight: "bold";
+  justify-content: "flex-end";
+}
+
+.container {
+  padding: 10;
+  width: "90%";
+  margin: "0 auto";
+  display: "flex";
+  justify-content: "space-between";
+}
